@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "gh",
+    "repository": "UBERMALLOW/vendor_huawei",
+    "target_path": "vendor/huawei",
+    "revision": "master"
+  },
+  {
+    "remote": "gh",
+    "repository": "DespairFactor/angler",
+    "target_path": "kernel/huawei/angler",
+    "revision": "master"
+  }
+]
