@@ -6,9 +6,9 @@
     "revision": "master"
   },
   {
-    "remote": "gh",
-    "repository": "DespairFactor/angler",
+    "remote": "cm",
+    "repository": "android_kernel_huawei_angler",
     "target_path": "kernel/huawei/angler",
-    "revision": "master"
+    "revision": "cm-13.0"
   }
 ]
