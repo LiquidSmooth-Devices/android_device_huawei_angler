@@ -3,7 +3,7 @@
     "remote": "tm",
     "repository": "proprietary_vendor_huawei",
     "target_path": "vendor/huawei",
-    "revision": "master"
+    "revision": "cm-13.0"
   },
   {
     "remote": "gh",
